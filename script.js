@@ -29,7 +29,7 @@ for (var i = 0; i < btns.length; i++) {
     current[0].className = current[0].className.replace(" active", "");
     this.className += " active";
   });
-
+}
   var mybutton = document.getElementById("scroll-top");
 window.onscroll = function() {scrollFunction()};
 
@@ -41,4 +41,3 @@ function scrollFunction() {
   }
 }
 
-}
