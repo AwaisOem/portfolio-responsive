@@ -74,6 +74,7 @@ form{
     border-left: transparent ;
     box-shadow: 0 0px 10px 0 rgb(28 30 35 / 20%);
     padding: 4vh 34vw 17vh 4vw;
+    resize:none;
 }
 #Sumit{
     border: solid #FF3342;
